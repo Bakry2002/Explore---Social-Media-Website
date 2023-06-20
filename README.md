@@ -5,5 +5,5 @@ Languages used in this project:
   - CSS: To style the page.
   - JS: To add more functionality to the page (i.e. change the theme, search functionality).
 
-# There is a Demo preview for the project till I publish it:
+# Demo preview for the project:
 ![](Demo-Preview.gif)
